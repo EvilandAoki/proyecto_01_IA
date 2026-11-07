@@ -1,7 +1,8 @@
 # Gato (3 en línea): algoritmos de búsqueda (Proyecto 1, IA)
 
-**Integrantes:** _(completar: nombre y código de cada integrante, máximo 3)_
-**Curso / docente:** _(completar)_
+**Integrantes:** Alejandro Villamil Carmona (2610338-3743), Sebastian Rey Escobar 2610344-3743 
+
+**Curso / docente:** Inteligencia Artificial 750022C / Andrés Mauricio Valencia Restrepo 
 
 Todo el proyecto gira alrededor del gato y cubre los cinco algoritmos pedidos:
 
@@ -22,15 +23,6 @@ python3 -m gato.experimentos     # tablas de resultados del informe (Markdown)
 python3 -m gato.web              # interfaz web local (http://127.0.0.1:8765/), ver sección 11
 ```
 
-Documentación: `DOCUMENTACION.md` (implementación línea por línea de Minimax y alfa-beta, y de la
-búsqueda) y `informe/` (borrador del informe y guion de la presentación).
-
-**Herramientas de apoyo declaradas:** se usó Claude Code (asistente de IA de Anthropic) para
-ayudar a escribir y documentar el código. _(Ajustar a lo que realmente use el grupo.)_
-
-La primera parte del proyecto: un juego de gato en la terminal contra una máquina que
-decide con el algoritmo **Minimax**, y que **muestra su razonamiento modelándolo como un árbol de
-juego**. Incluye además la **poda alfa-beta** para comparar cuánto trabajo se ahorra.
 
 ## Contenido del menú
 
